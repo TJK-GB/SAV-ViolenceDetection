@@ -39,9 +39,10 @@ The dataset is too large to host on GitHub. You can download it here(or also can
 [**Google Drive Link**](https://drive.google.com/drive/folders/1v6knivpMxbG1_S1musGSOx8wo0fQMRv3?usp=sharing)
 
 ## Contents include:
-- **Segment-level annotations** with precise start–end timestamps  
-- **Video source labels** (CCTV, news, self-filmed, etc.)  
-- **Multiple modalities** (video, audio, optional text metadata)  
+- **Frame-level data in `.npy` format**  
+  - Unimodal version (frames only)  
+  - Video-source–annotated version  
+- **200 YouTube videos** used for dataset construction
 
 ---
 
