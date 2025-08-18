@@ -1,0 +1,28 @@
+Dataset Instructions
+
+The full dataset is hosted externally due to size constraints and can be accessed here:
+Google Drive Link: https://drive.google.com/drive/folders/1v6knivpMxbG1_S1musGSOx8wo0fQMRv3?usp=sharing
+
+
+1. youtube_videos (200)
+
+Contains the 200 original YouTube video files in .mp4 format.
+These are the raw videos before preprocessing.
+
+2. npy_segments_videosource
+
+Contains .npy files where each file corresponds to a video segment represented as 320 frames.
+Segments are extracted after frame division and include both violence labels and video source information.
+This set is larger than the unimodal version because segmentation with video source produces more clips.
+
+3. npy_segments_unimodal
+
+Contains .npy files where each segment is represented as 320 frames.
+Labels are violence only (binary classification: violent vs. non-violent).
+This is the standard unimodal dataset used for baseline experiments.
+
+
+4. User notes
+import numpy as np
+data = np.load("example_segment.npy")
+print(data.shape)  # (320, H, W, C)

@@ -18,7 +18,7 @@ class AnnotationTool:
         self.root.geometry("1680x1050")
 
         self.BASE_PATH = r"Dataset" # replace with youtube_videos path
-        self.BASE_PATH_SAVE = r"Annotations_Final\test" #replace with where to save path
+        self.BASE_PATH_SAVE = r"Annotations_Final\Old" #replace with where to save path
         self.VIDEO_DIR = os.path.join(self.BASE_PATH, "youtube_videos(200)")
         self.SAVE_PATH = os.path.join(self.BASE_PATH_SAVE, "annotations_test.xlsx") #saving file name #
 

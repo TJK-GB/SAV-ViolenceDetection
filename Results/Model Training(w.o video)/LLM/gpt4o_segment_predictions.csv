@@ -1,0 +1,329 @@
+segment_id,gpt_pred_label,true_label,gpt_response
+10_1,1,0,"Frames 4, 5, 6, 9, and 10 show indications of a chaotic situation, which may involve violence."
+16_1,0,0,None
+16_2,0,1,None.
+16_3,0,0,None.
+16_4,0,1,None.
+16_5,0,0,None.
+16_6,1,1,"Frames 7, 8, 9, and 10 show violent actions."
+16_7,1,0,"Frames 1 and 2 show what appears to be a group of people in a potentially aggressive or confrontational stance, which might indicate violence. The rest of the frames are blank."
+16_8,1,1,"Frames 1, 2, and 3 show violent action."
+17_1,0,0,None.
+17_2,0,1,None.
+17_3,0,0,None.
+22_1,0,0,None.
+22_2,0,1,None.
+22_3,0,0,None.
+22_4,0,1,None.
+22_5,0,0,None.
+22_6,1,1,"Frames 1 to 5 show individuals with a firearm, which suggests a potential threat or violent situation. However, no explicit violent action is visible in these frames."
+22_7,0,0,None.
+23_1,0,0,None.
+26_1,1,0,"Frames 2, 3, 4, and 5 indicate a violent action."
+26_2,0,1,None.
+26_3,0,0,None.
+26_4,0,1,None.
+26_5,1,0,"Frame 1 shows a scene that might suggest violence, as it involves a group of people and mentions ""knife crime."" However, without more context or visible actions, it's unclear if violence is occurring. The other frames are blank."
+102_1,0,0,None.
+102_2,0,1,None.
+102_3,0,0,None.
+102_4,0,1,None.
+102_5,0,0,None.
+103_1,0,0,None.
+116_1,1,0,Frames 5 to 10 show violent action.
+119_1,0,0,None.
+119_2,0,1,None.
+119_3,1,0,Frames 1 and 2 show a violent action where a suspect is throwing a bottle.
+119_4,0,1,None
+119_5,0,0,None.
+119_6,0,1,None.
+119_7,0,0,None.
+119_8,0,1,None.
+119_9,0,0,None.
+119_10,0,1,None.
+119_11,0,0,None.
+131_1,0,0,None.
+131_2,1,1,"Frames 4, 5, 6, and 7 show violent action."
+131_3,0,0,None.
+131_4,1,1,"Frames 5, 6, 7, and 8 show violent actions."
+131_5,0,0,None.
+132_1,0,0,None.
+132_2,1,1,"Frames 3, 4, and 5 show violent action."
+132_3,0,0,None.
+132_4,1,1,"Frames 1 through 10 show a physical altercation, indicating violence."
+132_5,0,0,None.
+133_1,1,1,"Frames 3, 4, 5, and 6 show violent actions."
+133_2,0,0,None.
+133_3,1,1,Frames 1 to 4 show a physical altercation between two individuals.
+133_4,0,0,None.
+133_5,1,1,"Frames 2, 3, and 4 show violent actions."
+133_6,0,0,None.
+133_7,1,1,Frames 2 to 5 show violent action.
+135_1,1,0,Frames 2 to 9 indicate a violent action occurring.
+135_2,1,1,Frames 9 and 10 show violent action.
+135_3,0,0,None.
+135_4,0,1,None
+135_5,1,0,Frames 2 through 6 show signs of violence.
+135_6,0,1,None
+135_7,0,0,None.
+135_8,1,1,Frames 1 and 2 show violent action.
+135_9,0,0,None.
+137_1,0,0,None.
+137_2,1,1,"Frames 2 and 3 show a person on the ground surrounded by others, which may indicate a violent action."
+137_3,1,0,Frames 1 to 5 show a situation that appears to involve violence.
+137_4,1,1,"Frames 1 to 4 show a person on the ground with others standing nearby, which suggests a violent incident may have occurred. The subsequent frames are black and do not show any content."
+137_5,0,0,None.
+137_6,1,1,"Frames 2, 3, 7, and 8 appear to show violent action."
+137_7,1,0,"Frames 1 to 3 show a group of people standing around someone on the ground, which suggests a potentially violent situation. However, without more context or clearer actions, it's not possible to definitively confirm violence. Frames 4 to 9 are blank."
+137_8,1,1,Frames 1 and 2 show a situation that appears to involve violence.
+137_9,0,0,None.
+137_10,1,1,Frames 3 to 6 show violent action.
+137_11,0,0,None.
+140_1,0,0,None.
+140_2,0,1,None.
+140_3,0,0,None
+140_4,0,1,None.
+140_5,0,0,None.
+140_6,0,1,None.
+140_7,0,0,None
+140_8,0,1,None
+140_9,1,0,"Frames 1 and 2 show a person approaching another person with a walker, which might suggest an impending interaction. However, without further context or visible actions indicating violence, it's not possible to confirm any violent action from these frames alone. Therefore, based on the provided frames, the answer is: None."
+140_10,1,1,Frames 1 to 6 show violent action.
+140_11,1,0,Frames 8 and 9 show violent action.
+140_12,1,1,"Frames 1, 2, and 3 show violent action."
+140_13,0,0,None.
+140_14,1,1,Frames 1 to 4 show violent action.
+140_15,0,0,None.
+140_16,1,1,Frames 1 to 4 show violent action.
+141_1,0,0,None.
+142_1,0,0,None.
+142_2,0,1,None.
+142_3,0,0,None.
+146_1,0,0,None.
+154_1,0,0,None.
+155_1,0,0,None.
+157_1,0,0,None.
+157_2,0,1,None.
+157_3,0,0,None.
+157_4,0,1,None.
+157_5,0,0,None.
+157_6,0,1,None.
+165_1,0,0,None.
+165_2,1,1,"The frames show a boxing match, which is a sport involving physical contact. However, within the context of the sport, this is not considered violence. Therefore, the answer is ""None."""
+165_3,0,0,None.
+169_1,1,0,"Frame 10 shows a scene that might suggest a situation involving law enforcement, but there is no clear depiction of violence. Therefore, the answer is: None."
+169_2,1,1,"The first three frames show a police interaction with a person on the ground, which could be interpreted as a potentially violent situation. However, without more context, it's unclear if violence is occurring. The remaining frames are black and show no action."
+169_3,0,0,None.
+169_4,1,1,"Frames 1 to 5 show a situation involving police officers and a person on the ground, which may suggest a use of force. However, without further context, it's unclear if it's violent. Frames 6 to 10 are blank."
+169_5,0,0,None.
+169_6,1,1,"Frames 2 to 10 show a situation where individuals are restraining someone on the ground, which could be considered a violent action."
+169_7,1,0,"Frames 5, 6, 7, 8, and 9 show violent action."
+169_8,1,1,"The frames show police officers detaining a person on the ground, which can be considered a form of physical restraint. However, without more context, it's unclear if this constitutes violence. Based on the images alone, frames 1 to 7 depict this action."
+169_9,0,0,None.
+169_10,1,1,"Frames 1 and 2 show a situation that may involve physical restraint, but without more context, it's unclear if it's violent. The remaining frames are blank."
+169_11,1,0,"Frames 1 and 2 show a situation that could be interpreted as involving violence, as it appears to depict a physical altercation or restraint. The remaining frames are blank."
+169_12,1,1,"Frame 1 shows a scene that could suggest a physical altercation or police action, but without more context, it's unclear if it's violent. The rest of the frames are black and show no action. Therefore, based on the visible content, frame 1 might depict potential violence."
+169_13,0,0,None.
+169_14,1,1,"Frame 1 shows a situation that might involve police activity, but without more context, it's unclear if violence is occurring. The other frames are blank. Based on the available information, it's not possible to confirm any violent action."
+169_15,1,0,"Frames 1 and 2 show a situation that appears to involve physical restraint, which could be considered violent. The remaining frames are blank."
+169_16,1,1,"Frames 1 and 2 show a situation involving police officers and a person on the ground, which may suggest a physical altercation or arrest. However, without further context, it's unclear if it constitutes violence. The remaining frames are blank."
+169_17,0,0,None.
+169_18,1,1,"Frames 1, 2, and 3 show a situation that might involve physical restraint, which could be interpreted as violence. The remaining frames are black and show no content."
+169_19,0,0,None.
+169_20,0,1,None.
+169_21,0,0,None.
+169_22,1,1,"The frames show police officers detaining a person on the ground. This could be interpreted as a use of force, but without more context, it's unclear if it's violent. The relevant frames are 1 to 7."
+169_23,0,0,None.
+169_24,1,1,"Frames 1 and 2 show a situation that may involve law enforcement activity, but there is no clear indication of violence. The remaining frames are black and do not show any content. Therefore, based on the visible frames, there is no clear evidence of violence. 
+
+None."
+169_25,0,0,None.
+169_26,1,1,"Frames 1 and 2 show a person on the ground with another person's foot on them, which could indicate a violent action. The rest of the frames are blank."
+169_27,0,0,None
+169_28,0,1,None.
+169_29,1,0,"Frame 1 shows a situation that might involve physical restraint, which could be considered violent. The other frames are black and do not show any content."
+169_30,1,1,"Frames 1 to 3 show a group of people, possibly law enforcement, restraining someone on the ground, which may indicate a violent action. The remaining frames are black and show no activity."
+169_31,0,0,None.
+169_32,1,1,"Frames 1, 2, and 3 show a person on the ground with officers around them, which may suggest a potential use of force. The remaining frames do not show any violent action."
+173_1,0,0,None.
+173_2,0,1,None.
+173_3,0,0,None.
+174_1,0,0,None
+174_2,0,1,None.
+174_3,1,0,"Frames 2 and 3 show potential violent action, as they depict physical contact."
+174_4,0,1,None
+174_5,0,0,None.
+174_6,0,1,None.
+174_7,0,0,None
+174_8,1,1,"Frames 8, 9, and 10 show violent action."
+174_9,0,0,None.
+175_1,0,0,None.
+175_2,0,1,None
+175_3,0,0,None.
+175_4,0,1,None.
+175_5,0,0,None.
+177_1,1,0,Frames 3 and 6 show potential violent action.
+177_2,1,1,"Frames 4, 5, and 6 show potential violent action."
+177_3,0,0,None.
+177_4,0,1,None.
+177_5,0,0,None.
+177_6,0,1,None.
+177_7,0,0,None.
+177_8,0,1,None.
+177_9,0,0,None.
+178_1,0,0,None.
+178_2,1,1,"Frames 7, 8, and 9 show a person holding a firearm, which suggests potential violence."
+178_3,0,0,None.
+178_4,1,1,"Frames 1 and 2 show a situation that might involve violence, as there are people in a confrontational stance. The remaining frames are blank."
+178_5,1,0,"Frames 5, 6, and 7 show a person interacting with a dog in a manner that could be considered violent."
+185_1,0,0,None.
+188_1,0,0,None
+189_1,0,0,None.
+192_1,0,0,None.
+193_1,1,1,Frames 3 and 4 show violent action.
+193_2,0,0,None.
+193_3,1,1,"Frames 2, 3, and 4 show violent actions."
+193_4,0,0,None.
+193_5,1,1,Frames 7 and 8 show violent action.
+193_6,0,0,None.
+193_7,0,1,None.
+193_8,0,0,None.
+196_1,1,0,"Frames 1 and 2 show a broken window, which suggests some form of violent action or vandalism."
+196_2,0,1,None.
+196_3,0,0,None.
+202_1,0,0,None.
+207_1,0,0,None.
+207_2,1,1,"Frames 1 to 4 show what appears to be a confrontation with smoke or tear gas, which could indicate a violent situation. The remaining frames (5 to 10) show a standoff between police and protesters, but no overt violence is visible."
+207_3,0,0,None.
+207_4,0,1,None.
+207_5,0,0,None.
+215_1,1,1,"Frames 5, 6, 7, 8, 9, and 10 show violent action."
+215_2,0,0,None.
+215_3,0,1,None.
+215_4,0,0,None.
+215_5,1,1,"Frames 1 to 6 show a chaotic scene with people running and someone on the ground, which might suggest violence. However, without more context, it's unclear if violence is occurring. Frames 7 to 10 show a calm scene with no apparent violence."
+215_6,0,0,None.
+215_7,0,1,None.
+216_1,0,0,None.
+216_2,0,1,None.
+216_3,0,0,None.
+217_1,0,0,None.
+217_2,1,1,Frames 4 to 9 show violent action.
+220_1,0,0,None.
+235_1,1,1,"Frames 3 to 10 show a scene labeled ""CAR PARK CLASH,"" which appears to depict a physical altercation."
+235_2,0,0,None
+235_3,0,1,None.
+235_4,0,0,None.
+235_5,1,1,Frames 1 to 6 show violent action.
+235_6,0,0,None.
+235_7,1,1,Frames 1 to 5 show violent action.
+235_8,1,0,Frames 1 and 2 appear to show a violent action.
+235_9,1,1,"Frames 1 and 2 show a person interacting with a van in a way that could suggest potential violence, such as an altercation or aggressive behavior. The remaining frames are black and do not show any content."
+235_10,1,0,"Frames 1 and 2 show a person being hit by a vehicle, which can be considered a violent action."
+235_11,1,1,Frames 1 to 4 show violent action.
+235_12,0,0,None.
+235_13,1,1,Frames 1 to 5 show violent action.
+237_1,1,1,Frames 1 to 7 show violent action.
+237_2,0,0,None.
+237_3,1,1,Frames 1 to 4 show violent action.
+237_4,0,0,None.
+237_5,1,1,"Frames 1, 2, and 3 show violent action."
+237_6,0,0,None.
+237_7,1,1,"Frames 1, 2, 3, 4, 5, 6, 8, and 9 show violent action."
+237_8,0,0,None.
+237_9,1,1,"Frames 1, 2, and 3 show violent action."
+237_10,0,0,None.
+237_11,1,1,"Frames 1 to 4 show a person in a potentially aggressive posture, which may indicate violence. The subsequent frames are black and do not show any action."
+237_12,0,0,None.
+237_13,1,1,Frames 1 to 4 show violent action.
+237_14,0,0,None.
+239_1,0,0,None.
+243_1,0,0,None.
+243_2,0,1,None.
+243_3,0,0,None.
+243_4,0,1,None.
+243_5,0,0,None.
+243_6,0,1,None.
+243_7,1,0,Frames 9 and 10 show violent action.
+246_1,0,0,None.
+246_2,1,1,"Frames 1, 2, and 3 show a situation labeled as ""TEENS ATTACK WOMAN,"" suggesting a violent action."
+246_3,0,0,None.
+246_4,0,1,None.
+246_5,0,0,None.
+249_1,0,0,None.
+249_2,1,1,"Frames 3, 4, 5, 6, and 7 show violent actions."
+249_3,0,0,None
+249_4,1,1,"Frames 5, 6, and 7 show violent action."
+249_5,0,0,None.
+249_6,1,1,"Frames 3, 4, and 5 show violent action."
+249_7,1,0,Frames 1 to 5 show a situation that appears to involve some form of physical altercation or violence.
+253_1,0,0,None.
+253_2,0,1,None.
+253_3,0,0,None.
+253_4,0,1,None.
+253_5,0,0,None.
+253_6,0,1,None.
+257_1,1,1,"Frames 6, 7, 8, and 9 show what appears to be a violent confrontation."
+257_2,0,0,None.
+257_3,1,1,"Frames 1 to 3 show a situation that might suggest potential violence, as there appears to be a weapon visible. However, without further context or clear actions, it's not possible to definitively identify violence. Frames 4 to 10 are blank. Therefore, based on the visible frames, potential violence is suggested in frames 1 to 3."
+257_4,0,0,None.
+257_5,1,1,"Frames 1, 3, and 5 show a gun being pointed, which suggests potential violence."
+257_6,0,0,None.
+258_1,0,0,None.
+258_2,0,1,None.
+258_3,0,0,None.
+258_4,0,1,None.
+258_5,0,0,None
+258_6,0,1,None
+258_7,0,0,None.
+258_8,0,1,None.
+263_1,0,0,None
+263_2,1,1,"Frames 1 to 9 show a person holding a firearm, which indicates a potential for violence. However, without further context or visible actions of violence, it's not possible to confirm any violent action. Frame 10 shows a blurred individual, but no clear violence is depicted. Therefore, based on these frames alone, I cannot confirm any specific violent action."
+265_1,0,0,None.
+265_2,0,1,None.
+265_3,0,0,None
+267_1,0,1,None.
+267_2,0,0,None.
+271_1,0,0,None.
+271_2,error,1,"Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o in organization org-jwXG9OABYnsPLwBFf44af35b on tokens per min (TPM): Limit 30000, Used 30000, Requested 7734. Please try again in 15.467s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}"
+271_3,0,0,None.
+271_4,0,1,None.
+271_5,0,0,None.
+271_6,0,1,None.
+271_7,0,0,None.
+271_8,1,1,Frames 4 and 5 show a person extending their arm in a manner that could suggest a violent action.
+271_9,0,0,None.
+275_1,0,0,None
+275_2,0,1,None.
+275_3,0,0,None.
+276_1,0,0,None.
+279_1,0,0,None.
+279_2,1,1,Frames 2 through 9 show violent actions.
+279_3,1,0,Frames 9 and 10 show violent action.
+279_4,1,1,"Frames 1, 2, 4, 6, and 7 show violent actions."
+282_1,0,0,None.
+282_2,0,1,None.
+282_3,0,0,None.
+282_4,1,1,Frames 1 and 2 show a situation that appears to involve violence or a threatening action.
+282_5,0,0,None.
+282_6,1,1,Frames 2 and 3 show violent action.
+282_7,0,0,None.
+282_8,0,1,None.
+282_9,0,0,None.
+282_10,0,1,None.
+282_11,0,0,None.
+283_1,0,0,None.
+283_2,0,1,None.
+283_3,0,0,None.
+283_4,0,1,None.
+283_5,error,0,"Error code: 429 - {'error': {'message': 'Rate limit reached for gpt-4o in organization org-jwXG9OABYnsPLwBFf44af35b on tokens per min (TPM): Limit 30000, Used 30000, Requested 7734. Please try again in 15.467s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}"
+283_6,1,1,Frames 1 to 4 show a physical altercation involving security guards.
+283_7,0,0,None.
+283_8,0,1,None
+283_9,0,0,None
+283_10,0,1,None.
+283_11,0,0,None
+283_12,0,1,None.
+283_13,0,0,None.
+283_14,1,1,"Frames 1, 2, and 3 show a violent encounter."
+283_15,1,0,Frame 1 shows a scene that might involve a violent encounter. The other frames do not show any violence.
