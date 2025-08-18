@@ -1,0 +1,42 @@
+# Ignore dataset folders with npy files
+Dataset/
+
+# === OS / IDE ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+.vscode/
+.idea/
+
+
+# Ignore all .npy files
+*.npy
+
+# Keep Frames_unimodal jpgs (no ignore rule for jpgs)
+
+# Ignore common big archives
+*.zip
+*.tar
+*.gz
+*.pt
+*.pth
+*.ckpt
+*.pb
+*.h5
+*.mp4
+
+# Ignore system/IDE files
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# === Python cache ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
