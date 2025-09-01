@@ -30,7 +30,7 @@ def get_next_number():
             numbers.append(int(match.group(1)))
     return max(numbers + [0]) + 1
 
-def search_and_download(query: str, max_results=3, min_duration_sec=90):
+def search_and_download(query: str, max_results=5, min_duration_sec=90):
     if not os.path.exists(DOWNLOAD_DIR):
         os.makedirs(DOWNLOAD_DIR)
 
