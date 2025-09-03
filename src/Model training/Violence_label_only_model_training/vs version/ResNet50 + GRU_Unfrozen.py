@@ -31,9 +31,9 @@ save_path = r"D:\UK\00. 2024 QMUL\00. Course\SAV-ViolenceDetection\Results\Model
 os.makedirs(save_path, exist_ok=True)
 
 # Configuration 
-BATCH_SIZE = 2
+BATCH_SIZE = 4
 GRAD_ACCUM_STEPS = 4
-EPOCHS = 20
+EPOCHS = 10
 MAX_FRAMES = 80
 EARLY_STOPPING_PATIENCE = 4
 
